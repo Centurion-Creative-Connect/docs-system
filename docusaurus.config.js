@@ -63,7 +63,7 @@ const config = {
           srcDark: 'img/logo_dark.svg',
         },
         items: [
-          {href: 'https://staging.centurioncc.org/', label: 'Home', position: 'left'},
+          {href: 'https://centurioncc.org/', label: 'Home', position: 'left'},
           {
             href: 'https://github.com/Centurion-Creative-Connect/System',
             label: 'GitHub',
